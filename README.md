@@ -8,6 +8,7 @@ Esse é um mini game 2d, desenvolvido com o professor Guido Cerqueira na aula da
 Para vencer é preciso alcancar o tesouro que está pelo mapa.
 
 ### Status: Em Desenvolvimento ⚠️
++ Grama Sintética 
 + Implementação de obstaculos
 + Mais fases
 
