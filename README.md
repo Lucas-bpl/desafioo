@@ -10,6 +10,7 @@ Para vencer é preciso alcançar o tesouro que está pelo mapa.
 ### Status: Em Desenvolvimento ⚠️
 + Grama Sintética 
 + Implementação de obstaculos
++ Implementação de inimigos
 + Mais fases
 
 ### Capturas de Tela 
