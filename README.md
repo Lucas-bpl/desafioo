@@ -1,4 +1,4 @@
-<h1> Mini Game Caça ao Tesouro</h1>
+<h1> ⭐ Mini Game Caça ao Tesouro ⭐ </h1>
 
 
 ### Caça Ao Tesouro
