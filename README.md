@@ -12,7 +12,7 @@ Para vencer é preciso alcancar o tesouro que está pelo mapa.
 + Mais fases
 
 ### Capturas de Tela 
-
+<img src="https://github.com/Lucas-bpl/desafioo/assets/138535783/5a3f288c-6077-4f16-89ed-3faaf5a2ff13" width="700px" />
 
 
 ### Tecnologias Utilizadas
